@@ -13,6 +13,11 @@ This guide covers the old version of the Bossrush mod for Shadows of Evil, which
 
 These features are not available in the newer version of Bossrush.
 
+🛠️ Mod Setup Guide:
+Go to "This Pc"
+and then: (Your Drive Name) (C:) 
+  - > Program Files (x86) > Steam > steamapps > common > Call of Duty Black Ops III.
+    - make a file in there called "mods" and extract this file into it. it should say "2372198694" in the folder.
 
 🛠️ Setup Guide:
 
