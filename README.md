@@ -1,5 +1,4 @@
 # Bossrush-Legacy-And-Timer
-Old Bossrush (Legacy Version) for Shadows of Evil
 
 Old Bossrush (Legacy Version) Setup & Run Guide – Shadows of Evil
 
