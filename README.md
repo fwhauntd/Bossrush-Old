@@ -6,10 +6,8 @@ Old Bossrush (Legacy Version) Setup & Run Guide – Shadows of Evil
 This guide covers the old version of the Bossrush mod for Shadows of Evil, which allows players to leave the Pack-a-Punch room. This version lets you:
 
   - Open all breakable doors, enabling faster routes and better times.
-
-    - Call the tram to specific locations (some of which are faster).
-
-      - Change rounds to regain Beast Modes.
+  - Call the tram to specific locations (some of which are faster).
+  - Change rounds to regain Beast Modes.
 
 These features are not available in the newer version of Bossrush.
 
