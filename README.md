@@ -74,6 +74,6 @@ This version was originally found by JJbros, zTrixS, Luisete2105, Ultimate-slay5
 
 Thanks for reading.
 
-————————————————————————————Timer————————————————————————————
+——————————————————Timer—————————————————
 
 The Bossrush Timer is currently in development — stay tuned.
