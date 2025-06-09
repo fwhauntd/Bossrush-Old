@@ -73,5 +73,7 @@ is better for all other maps.
 This version was originally found by JJbros, zTrixS, Luisete2105, Ultimate-slay577 and Fwhauntd (Myself). Only a small group of us had access to it, as it was kept within our circle and upron bringing it up it got ignored. But now, we're making it public on github so we can finally have some real competition in the speedrunning scene and get the newer players involved and not give up because we had / have an "unfair advantage".
 
 Thanks for reading.
+
 ————————————————————————————Timer————————————————————————————
+
 The Bossrush Timer is currently in development — stay tuned.
