@@ -10,6 +10,9 @@ This guide covers the old version of the Bossrush mod for Shadows of Evil, which
 
 These features are not available in the newer version of Bossrush.
 
+
+——————————————————Run Installation And Setup Guide——————————————————
+
 🛠️ Mod Setup Guide:
 Go to "This Pc" open (Your Drive Name)(C:) and then follow this:
   - > Program Files (x86) > Steam > steamapps > common > Call of Duty Black Ops III.
@@ -70,4 +73,6 @@ is better for all other maps.
 This version was originally found by JJbros, zTrixS, Luisete2105, Ultimate-slay577 and Fwhauntd (Myself). Only a small group of us had access to it, as it was kept within our circle and upron bringing it up it got ignored. But now, we're making it public on github so we can finally have some real competition in the speedrunning scene and get the newer players involved and not give up because we had / have an "unfair advantage".
 
 Thanks for reading.
-A Bossrush Timer is currently in development — stay tuned.
+
+——————————————————Timer——————————————————
+The Bossrush Timer is currently in development — stay tuned.
