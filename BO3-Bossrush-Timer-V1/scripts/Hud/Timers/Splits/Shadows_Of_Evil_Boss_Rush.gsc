@@ -33,7 +33,6 @@ function shadowmanbossrushsolo()
         while( !startzodbossrush() ) wait 0.05;
         level.shadowmanbossrush SetTimerUp(0);
         level.shadowmanbossrush.alpha = 1;
-        thread gotoround50();
         }
 
     shadowmanbossrushsplit = level.shadowmanbossrushsplit;
