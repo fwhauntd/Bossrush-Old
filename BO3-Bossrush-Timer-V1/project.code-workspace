@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"moon_classics": "cpp",
+			"s": "cpp",
+			"asdf": "cpp"
+		}
+	}
+}
