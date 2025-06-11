@@ -1,79 +1,135 @@
-# Bossrush-Legacy-And-Timer
+# BO3 Bossrush – Legacy Version & Timer
 
-Old Bossrush (Legacy Version) Setup & Run Guide – Shadows of Evil
+This repo includes two key things for Black Ops III Zombies:
 
-This guide covers the old version of the Bossrush mod for Shadows of Evil, which allows players to leave the Pack-a-Punch room. This version lets you:
+1. **Bossrush Legacy Mod** – A custom version of the Shadows of Evil bossrush that improves speedrun potential with extra mobility and round control.
+2. **Boss Rush Timer** – An in-game injected timer built for full boss run timing across all major BO3 Zombies maps.
 
-  - Open all breakable doors, enabling faster routes and better times.
-  - Call the tram to specific locations (some of which are faster).
-  - Change rounds to regain Beast Modes.
+---
 
-These features are not available in the newer version of Bossrush.
+## 🧟‍♂️ Legacy Bossrush (Shadows of Evil)
 
+This is the **older version** of the Bossrush mod for Shadows of Evil. It allows you to leave the Pack-a-Punch room and manipulate the game in ways the Steam Workshop version doesn't allow. This mod enables:
 
-——————————————————Run Installation And Setup Guide——————————————————
+- Breaking all doors (faster routing)
+- Calling the tram to faster locations
+- Changing rounds to regain Beast Modes
 
-🛠️ Mod Setup Guide:
-Go to "This Pc" open (Your Drive Name)(C:) and then follow this:
-  - > Program Files (x86) > Steam > steamapps > common > Call of Duty Black Ops III.
-    - > make a file in there called "mods" and extract this file into it. it should say "2372198694" in the folder.
-      - > equally if you have it in a different location you do the same guide.
-  - > a quicker method is: open steam, right click on "Call of Duty Black Ops III" press manage > browse folder location and continue from making the folder.
+This version is **only recommended for SoE (and possibly Gorod Krovi)**. For all other maps, use the newer Steam version:  
+➡️ https://steamcommunity.com/sharedfiles/filedetails/?id=1841533045
 
-🛠️ Setup Guide:
+---
 
-  1. Turn around from spawn and run through the top door. Activate Beast Mode, open the doors, and unlock all Rifts.
+### 🛠️ Legacy Mod Installation
 
-  2. Head to Nero's Room and interact with the floating book.
+1. Go to:  
+   `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III`
 
-  3. Go to the subway and pick up the flag.
+2. Create a folder named `mods` (if it doesn’t already exist).
 
-  4. Place the flag at the spawn door location.
+3. Extract the mod files into that folder — you should see a folder named `2372198694`.
 
-  5. Return to Nero's Room (either before or after the flag breaks) and start killing zombies there — this is done for spawn manipulation.
+> Alternate method:  
+> In Steam → right-click Black Ops III → Manage → Browse Local Files → continue from step 2.
 
-  6. End the round — your Beast Mode will be replenished.
+---
 
-  7. Go to Waterfront and move the tram there.
+### 🧪 Run Setup (SoE Legacy Guide)
 
-  8. Use the Rift to return to the Pack-a-Punch room and begin the Boss Fight.
+1. From spawn, turn around and go through the top door.
+2. Activate Beast Mode, open doors, and unlock all rifts.
+3. Go to Nero’s Room → interact with the floating book.
+4. Head to the subway → pick up the flag → place it at spawn.
+5. Return to Nero’s Room and start killing zombies (for spawn manipulation).
+6. End the round to regain Beast Mode.
+7. Move the tram to Waterfront.
+8. Use the Rift to return to PaP → start the boss fight.
 
+---
 
+### 🏃‍♂️ Run Execution (SoE)
 
-🏃‍♂️ Run Guide:
+1. Pick up Arnies + light weapon (RK5/Bloodhound).
+2. Grab Fatal Contraption, pop it near the ritual podium.
+3. Get Pop Shocks from the Gobblegum machine.
+4. Start the boss fight. Use Arnie, grab Death Machine, throw another Arnie, kill Shadowman.
+5. After the "kill", go through Canals Rift → enter Beast Mode.
+6. Shock all 3 boxes:
+   - **Canals**: Top of stairs near tram door  
+   - **Waterfront**: Same spot as Canals, mirrored  
+   - **Footlight**: Between the doors
+7. Exit Beast → call tram → use Pop Shocks to kill Margwa → re-enter Beast Mode
+8. Shock all 3 Keepers in the center → exit Beast Mode  
+9. **Timer stops on the white flash**
 
-  1. Pick up Arnies and equip a light weapon (RK5 or Bloodhound).
+---
 
-  2. Grab Fatal Contraption, pop it next to the Ritual Podium, then run back and pick up Pop Shocks from the Gobblegum machine.
+### 🔐 Credits (Legacy Version)
 
-  3. Start the Boss Fight. Use your Arnie, grab the Death Machine, throw your Arnie, and get ready to "kill" the Shadowman.
+Originally discovered and used by:
 
-  4. After "killing" the Shadowman, go through the Canals Rift (bottom right), run to Beast Mode, and become the Beast immediately.
+- **JJbros**
+- **zTrixS**
+- **Luisete2105**
+- **Ultimate-slay577**
+- **Fwhauntd** *(myself)*
 
-  5. Upon glitching into infinite Beast Mode, shock all three boxes:
+This version was originally shut down by the previous mod owner and never made public. We’re now releasing it here so everyone has access and newer players can compete without feeling left behind.
 
-        1. Canals: Corner near the tram door at the top of the stairs.
+---
 
-        2. Waterfront: Same place as Canals, just mirrored.
+## ⏱️ BO3 Boss Rush Timer
 
-        3. Footlight: In the middle between the doors. You can hit it from the Beast podium if you're angled correctly.
+An **in-game injected timer** that tracks boss fight durations across:
 
-  6. Exit Beast Mode, run up, call the tram, use Pop Shocks to kill the Margwa, and become the Beast again ASAP.
+- Shadows of Evil  
+- Der Eisendrache  
+- Zetsubou No Shima  
+- Gorod Krovi  
+- Revelations
 
-  7. Run to the middle, shock all 3 Keepers, and exit Beast Mode.
+Made specifically for **speedruns**, **challenge runs**, or **full bossrush attempts**. No manual starts/stops. Fully automatic.
 
-  8. The timer stops on the white flash.
+---
 
-This version of Bossrush is only better for Shadows of Evil and possibly Gorod Krovi (though that hasn’t been fully confirmed yet).
+### 🧰 Timer Features
 
-On the other hand, the newer version of Bossrush:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1841533045
-is better for all other maps.
+- Fully injected — runs directly inside the game  
+- Starts and stops automatically with boss triggers  
+- Designed to stay out of your way — minimal, clean UI  
+- Full five-map run support (SoE → Rev)
 
-This version was originally found by JJbros, zTrixS, Luisete2105, Ultimate-slay577 and Fwhauntd (Myself). Only a small group of us had access to it, as it was kept within our circle and upron bringing it up it got ignored. But now, we're making it public on github so we can finally have some real competition in the speedrunning scene and get the newer players involved and not give up because we had / have an "unfair advantage".
+---
 
-Thanks for reading.
+### ⚙️ Timer Setup (Serious Compiler)
 
-——————————————————Timer—————————————————
+1. **Download Serious Compiler**  
+   ➡️ https://github.com/shiversoftdev/t7-compiler/releases/tag/current
 
-The Bossrush Timer is currently in development — stay tuned.
+2. Run the `.exe` installer — it installs the t7 compiler and a Visual Studio Code extension.
+
+3. Make sure **Visual Studio Code** is installed before running the installer.
+
+4. In VSCode:
+   - Open Keybind Settings  
+   - Search for: `Run Test Task In...`  
+   - Bind it to a key (e.g. F6)
+
+5. Load up the mod in BO3
+
+6. Press the key you just bound to inject the timer into the game.
+
+> ✅ Tested on the Steam version of BO3 And the One Linked, any others that are NOT these 2 will NOT work as they are built for the OFFICAL versions and not fake ones.
+
+---
+
+### 🙏 Timer Credits
+
+- **Luisete2105** – Helped me understand core systems and guided me through everything. Genuinely the reason this timer works. Without him, I wouldn’t have finished this.
+- **Serious** – Creator of the t7 compiler + injection tooling:  
+  https://github.com/shiversoftdev/t7-compiler
+- **Fwhauntd** (me) – Timer logic, boss state detection, UI, injection, and final implementation.
+
+---
+
+Thanks for checking it out. Feel free to open an issue or suggest improvements.
