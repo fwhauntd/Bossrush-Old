@@ -71,8 +71,8 @@ Originally discovered and used by:
 - **JJbros**
 - **zTrixS**
 - **Luisete2105**
-- **Ultimate-slay577**
 - **Fwhauntd** *(myself)*
+- **Ultimate-Slay577**
 
 This version was originally shut down by the previous mod owner and never made public. We’re now releasing it here so everyone has access and newer players can compete without feeling left behind.
 
