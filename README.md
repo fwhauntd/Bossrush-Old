@@ -68,10 +68,10 @@ This version is **only recommended for SoE (and possibly Gorod Krovi)**. For all
 
 Originally discovered and used by:
 
+- **Fwhauntd** *(myself)*
 - **JJbros**
 - **zTrixS**
 - **Luisete2105**
-- **Fwhauntd** *(myself)*
 - **Ultimate-Slay577**
 
 This version was originally shut down by the previous mod owner and never made public. We’re now releasing it here so everyone has access and newer players can compete without feeling left behind.
