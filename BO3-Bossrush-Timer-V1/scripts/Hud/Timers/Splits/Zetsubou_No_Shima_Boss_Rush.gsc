@@ -64,7 +64,7 @@ function spiderqueenbossrushsolo() {
 
     level.spiderqueenbossrush.alpha = 1;
     level.spiderqueenbossrush setTimerUp(0);
-    level.first_tick_spider = level.ticks - 244;
+    level.first_tick_spider = level.ticks;
 
     level flag::wait_till("spider_queen_dead");
     wait 3.067;
@@ -123,7 +123,7 @@ function spiderqueenbossrushduo() {
 
     level.spiderqueenbossrush.alpha = 1;
     level.spiderqueenbossrush setTimerUp(0);
-    level.first_tick_spider = level.ticks - 244;
+    level.first_tick_spider = level.ticks;
 
     level flag::wait_till("spider_queen_dead");
     wait 3.067;
@@ -182,7 +182,7 @@ function spiderqueenbossrushtrio() {
 
     level.spiderqueenbossrush.alpha = 1;
     level.spiderqueenbossrush setTimerUp(0);
-    level.first_tick_spider = level.ticks - 244;
+    level.first_tick_spider = level.ticks;
 
     level flag::wait_till("spider_queen_dead");
     wait 3.067;
@@ -241,7 +241,7 @@ function spiderqueenbossrushquad() {
 
     level.spiderqueenbossrush.alpha = 1;
     level.spiderqueenbossrush setTimerUp(0);
-    level.first_tick_spider = level.ticks - 244;
+    level.first_tick_spider = level.ticks;
 
     level flag::wait_till("spider_queen_dead");
     wait 3.067;
