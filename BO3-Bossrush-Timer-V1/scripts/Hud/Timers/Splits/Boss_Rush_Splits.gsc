@@ -1,109 +1,154 @@
-function bossrushsplits()
+function bossrushspeedrun()
 {
-        level flag::wait_till("start_zombie_round_logic");
+        
         level.PlayerCount = GetPlayers().size;
-	switch(level.script){
+	switch(level.script)
+        {
 		case "zm_zod":
-                        if (level.PlayerCount == 1) {
+                        if (level.PlayerCount == 1)
+                        {
                                 thread shadowsofevilbossrushsolo();
-                                level.shadowmanbossrushsplit = 12.82;
+                                level.shadowmanbossrushsplit = 12.80;
                                 level.gatewormbossrushsplit = 96.65;
                         }
-                        else if (level.PlayerCount == 2){
+                        else if (level.PlayerCount == 2)
+                        {
                                 thread shadowsofevilbossrushduo();
-                                level.shadowmanbossrushsplit = 12.77;
+                                level.shadowmanbossrushsplit = 12.80;
                                 level.gatewormbossrushsplit = 59;
                         }
-                        else if (level.PlayerCount == 3){
+                        else if (level.PlayerCount == 3)
+                        {
                                 thread shadowsofevilbossrushtrio();
-                                level.shadowmanbossrushsplit = 13.34;
-                                level.gatewormbossrushsplit = 57.98;
+                                level.shadowmanbossrushsplit = 13.35;
+                                level.gatewormbossrushsplit = 57.95;
                         }
-                        else if (level.PlayerCount == 4){
+                        else if (level.PlayerCount == 4)
+                        {
                                 thread shadowsofevilbossrushquad();
-                                level.shadowmanbossrushsplit = 14.02;
-                                level.gatewormbossrushsplit = 42.73;
+                                level.shadowmanbossrushsplit = 14.00;
+                                level.gatewormbossrushsplit = 42.70;
                         }
 		break;
 
 		case "zm_castle":
-                        if (level.PlayerCount == 1) {
+                        if (level.PlayerCount == 1)
+                        {
                                 thread dereisendrachebossrushsolo();
-                                level.keeperbossrushsplit = 69.91;
+                                level.keeperbossrushsplit = 69.90;
                         }
-                        else if (level.PlayerCount == 2){
+                        else if (level.PlayerCount == 2)
+                        {
                                 thread dereisendrachebossrushduo();
                                 level.keeperbossrushsplit = 70.05;
                         }
-                        else if (level.PlayerCount == 3){
+                        else if (level.PlayerCount == 3)
+                        {
                                 thread dereisendrachebossrushtrio();
-                                level.keeperbossrushsplit = 70.11;
+                                level.keeperbossrushsplit = 70.10;
                         }
-                        else if (level.PlayerCount == 4){
+                        else if (level.PlayerCount == 4)
+                        {
                                 thread dereisendrachebossrushquad();
-                                level.keeperbossrushsplit = 70.48;
+                                level.keeperbossrushsplit = 70.50;
                         }
 		break;
 
 		case "zm_island":
-			if (level.PlayerCount == 1) {
+			if (level.PlayerCount == 1)
+                        {
                                 thread zetsubounoshimabossrushsolo();
                                 level.takeobossrushsplit = 198.55;
-                                level.spiderqueenbossrushsplit = 26.93;
+                                level.spiderqueenbossrushsplit = 26.90;
                         }
-                        else if (level.PlayerCount == 2){
+                        else if (level.PlayerCount == 2)
+                        {
                                 thread zetsubounoshimabossrushduo();
                                 level.takeobossrushsplit = 198.50;
-                                level.spiderqueenbossrushsplit = 28.90;
+                                level.spiderqueenbossrushsplit = 26.90;
                         }
-                        else if (level.PlayerCount == 3){
+                        else if (level.PlayerCount == 3)
+                        {
                                 thread zetsubounoshimabossrushtrio();
                                 level.takeobossrushsplit = 201.05;
                                 level.spiderqueenbossrushsplit = 27.95;
                         }
-                        else if (level.PlayerCount == 4){
+                        else if (level.PlayerCount == 4)
+                        {
                                 thread zetsubounoshimabossrushquad();
                                 level.takeobossrushsplit = 199.20;
-                                level.spiderqueenbossrushsplit = 27.98;
+                                level.spiderqueenbossrushsplit = 27.95;
                         }
 		break;
 
 		case "zm_stalingrad":
-			if (level.PlayerCount == 1){
+			if (level.PlayerCount == 1)
+                        {
                                 thread gorodkrovibossrushsolo();
-                                level.nikolaibossrushsplit = 180.76;
+                                level.nikolaibossrushsplit = 180.75;
                         }
-                        else if (level.PlayerCount == 2){
+                        else if (level.PlayerCount == 2)
+                        {
                                 thread gorodkrovibossrushduo();
-                                level.nikolaibossrushsplit = 197.62;
+                                level.nikolaibossrushsplit = 197.60;
                         }
-                        else if (level.PlayerCount == 3){
+                        else if (level.PlayerCount == 3)
+                        {
                                 thread gorodkrovibossrushtrio();
-                                level.nikolaibossrushsplit = 189.48;
+                                level.nikolaibossrushsplit = 189.50;
                         }
-                        else if (level.PlayerCount == 4){
+                        else if (level.PlayerCount == 4)
+                        {
                                 thread gorodkrovibossrushquad();
-                                level.nikolaibossrushsplit = 192.01;
+                                level.nikolaibossrushsplit = 192.00;
                         }
 		break;
 
 		case "zm_genesis":
-			if (level.PlayerCount == 1) {
+			if (level.PlayerCount == 1)
+                        {
                                 thread revelationsbossrushsolo();
-                                level.shadowmanrevelationsbossrush = 34.67;
+                                level.shadowmanrevelationsbossrush = 34.65;
                         }
-                        else if (level.PlayerCount == 2){
+                        else if (level.PlayerCount == 2)
+                        {
                                 thread revelationsbossrushduo();
-                                level.shadowmanrevelationsbossrush = 32.97;
+                                level.shadowmanrevelationsbossrush = 32.95;
                         }
-                        else if (level.PlayerCount == 3){
+                        else if (level.PlayerCount == 3)
+                        {
                                 thread revelationsbossrushtrio();
                                 level.shadowmanrevelationsbossrush = 34.85;
                         }
-                        else if (level.PlayerCount == 4){
+                        else if (level.PlayerCount == 4)
+                        {
                                 thread revelationsbossrushquad();
-                                level.shadowmanrevelationsbossrush = 31.79;
+                                level.shadowmanrevelationsbossrush = 31.80;
                         }
 		break;
 	}
+}
+
+
+function whiteflash()
+{
+    foreach( player in getplayers() ) if( isdefined( player.screen_fade_menus ) ) return true;
+    return false;
+}
+
+function startzodbossrush()
+{
+    character_names = ["boxer", "detective", "femme", "magician"];
+    foreach(str_charname in character_names)
+        {
+        if(!level flag::get(("ee_keeper_" + str_charname) + "_resurrected")) return false;
+    }
+
+	return true;
+}
+
+
+function is_teleporting_to_arena()
+{
+    return IsTrue( getplayers()[0].b_teleporting );
 }
