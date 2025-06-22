@@ -1,4 +1,4 @@
-function bossrushspeedrun()
+function bossrushsplits()
 {
         
         level.PlayerCount = GetPlayers().size;
