@@ -128,27 +128,3 @@ function bossrushspeedrun()
 		break;
 	}
 }
-
-
-function whiteflash()
-{
-    foreach( player in getplayers() ) if( isdefined( player.screen_fade_menus ) ) return true;
-    return false;
-}
-
-function startzodbossrush()
-{
-    character_names = ["boxer", "detective", "femme", "magician"];
-    foreach(str_charname in character_names)
-        {
-        if(!level flag::get(("ee_keeper_" + str_charname) + "_resurrected")) return false;
-    }
-
-	return true;
-}
-
-
-function is_teleporting_to_arena()
-{
-    return IsTrue( getplayers()[0].b_teleporting );
-}
