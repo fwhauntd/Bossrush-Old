@@ -9,8 +9,8 @@
             "command": "C:\\t7Compiler\\DebugCompiler.exe",
             "args": [
                 "--build",
-                "--noupdate",
-                "--boiii"
+                "--noupdate"
+                //"--boiii"
             ],
             "group": {
                 "kind": "test",
