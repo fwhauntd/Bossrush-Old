@@ -34,6 +34,7 @@ function shadowmanfinalbossrushsolo()
     level.first_tick = level.ticks;
 
     level flag::wait_till("final_boss_defeated");
+    wait 2.995;
     
     level.last_tick = level.ticks;
     level.total_ticks = level.last_tick - level.first_tick;
@@ -62,6 +63,7 @@ function shadowmanfinalbossrushduo()
     level.first_tick = level.ticks;
 
     level flag::wait_till("final_boss_defeated");
+    wait 2.995;
     
     level.last_tick = level.ticks;
     level.total_ticks = level.last_tick - level.first_tick;
@@ -90,6 +92,7 @@ function shadowmanfinalbossrushtrio()
     level.first_tick = level.ticks;
 
     level flag::wait_till("final_boss_defeated");
+    wait 2.995;
     
     level.last_tick = level.ticks;
     level.total_ticks = level.last_tick - level.first_tick;
@@ -118,6 +121,7 @@ function shadowmanfinalbossrushquad()
     level.first_tick = level.ticks;
 
     level flag::wait_till("final_boss_defeated");
+    wait 2.995;
     
     level.last_tick = level.ticks;
     level.total_ticks = level.last_tick - level.first_tick;
